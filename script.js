@@ -169,3 +169,8 @@ function nodeProjects() {
   </div>
 `;
 }
+
+function invoiceVideo() {
+  let getInvoice = document.querySelector(".in_play");
+  getInvoice.play();
+}
