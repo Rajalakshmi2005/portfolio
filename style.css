@@ -805,7 +805,7 @@ ul {
   border: 1px solid #0bceaf;
 }
 
-@media only screen and (min-width: 601px) and (max-width: 1024px) {
+@media only screen and (min-width: 350px) and (max-width: 700px) {
   body,
   html {
     width: 100%;
@@ -838,8 +838,8 @@ ul {
   #nav_div {
     height: 100%;
     width: 100%;
-    display: grid;
-    grid-template-columns: 35% 65%;
+    /* display: grid;
+    grid-template-columns: 35% 65%; */
   }
   #content-container {
     height: 100%;

@@ -150,11 +150,53 @@ I used grid properties,floor and random medthos in this game.
      </div>`;
 }
 
+function javaProjects() {
+  let getDiv = document.getElementById("all_contenet");
+
+  getDiv.innerHTML = `
+  <a href="https://github.com/Rajalakshmi2005/javaAss15"  target="_blank"> 
+  <div id="inside_boxes_js" style=" background-size:100% 100%; border:5px solid black;">
+  
+ <h1>Java <br>Assignment</h1>
+ 
+  </div>
+  </a>
+
+
+  <a href="https://github.com/Rajalakshmi2005/javaAss14"  target="_blank"> 
+  <div id="inside_boxes_js" style=" ;background-size:100% 100%; border:5px solid black;" >
+  
+ <h1>Java <br>Assignment</h1>
+ 
+  </div>
+  </a>
+
+
+
+  <a href="https://github.com/Rajalakshmi2005/javaASS12"  target="_blank"> 
+  <div id="inside_boxes_js" style=" ;background-size:100% 100%; border:5px solid black;" >
+  
+ <h1>Java <br>Assignment</h1>
+ 
+  </div>
+  </a>
+
+  <a href="https://github.com/Rajalakshmi2005/javaAss9"  target="_blank"> 
+  <div id="inside_boxes_js" style=" ;background-size:100% 100%; border:5px solid black;">
+  
+ <h1>Java <br>Assignment</h1>
+ 
+  </div>
+  </a>
+ `;
+}
+
 function nodeProjects() {
   let getDiv = document.getElementById("all_contenet");
 
   getDiv.innerHTML = `
   <div id="inside_boxes_node">
+  
   <video src="movie.webm" id="in_video" style="width:100%;height:100%" controls> </video>
   </div>
   <div id="inside_boxes_node">
