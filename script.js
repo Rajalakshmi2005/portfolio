@@ -157,16 +157,23 @@ function javaProjects() {
   <a href="https://github.com/Rajalakshmi2005/javaAss15"  target="_blank"> 
   <div id="inside_boxes_js" style=" background-size:100% 100%; border:5px solid black;">
   
+ 
+ <div id="des_div" style="display:flex; justify-content:center; align-items:center; flex-direction:column">
  <h1>Java <br>Assignment</h1>
+ <button   class="btn3 sub_btn" >View</button>
+ </div>
  
   </div>
   </a>
 
 
   <a href="https://github.com/Rajalakshmi2005/javaAss14"  target="_blank"> 
-  <div id="inside_boxes_js" style=" ;background-size:100% 100%; border:5px solid black;" >
+  <div id="inside_boxes_js" style=" ;background-size:100% 100%; border:5px solid black; " >
   
- <h1>Java <br>Assignment</h1>
+  <div id="des_div" style="display:flex; justify-content:center; align-items:center; flex-direction:column">
+  <h1>Java <br>Assignment</h1>
+  <button   class="btn3 sub_btn" >View</button>
+  </div>
  
   </div>
   </a>
@@ -174,17 +181,23 @@ function javaProjects() {
 
 
   <a href="https://github.com/Rajalakshmi2005/javaASS12"  target="_blank"> 
-  <div id="inside_boxes_js" style=" ;background-size:100% 100%; border:5px solid black;" >
+  <div id="inside_boxes_js" style=" ;background-size:100% 100%; border:5px solid black; flex-direction:column"" >
   
- <h1>Java <br>Assignment</h1>
+  <div id="des_div" style="display:flex; justify-content:center; align-items:center; flex-direction:column">
+  <h1>Java <br>Assignment</h1>
+  <button   class="btn3 sub_btn" >View</button>
+  </div>
  
   </div>
   </a>
 
   <a href="https://github.com/Rajalakshmi2005/javaAss9"  target="_blank"> 
-  <div id="inside_boxes_js" style=" ;background-size:100% 100%; border:5px solid black;">
+  <div id="inside_boxes_js" style=" ;background-size:100% 100%; border:5px solid black; flex-direction:column"">
   
- <h1>Java <br>Assignment</h1>
+  <div id="des_div" style="display:flex; justify-content:center; align-items:center; flex-direction:column">
+  <h1>Java <br>Assignment</h1>
+  <button   class="btn3 sub_btn" >View</button>
+  </div>
  
   </div>
   </a>
